@@ -4,7 +4,7 @@
  * @author Mariló Sánchez
  */
  
- public class Ejercicio5 {
+ public class Ejercicio6 {
    public static void main (String [] args) {
      String linea;
      
