@@ -64,7 +64,7 @@ public class Ejercicio10 {
       }
         break;
         
-      case 7 {
+      case 7 :
       if (dia >= 21) {
         horoscopo = "Leo";
       } else {
@@ -72,7 +72,7 @@ public class Ejercicio10 {
       }
         break;
         
-      case 8 {
+      case 8 :
         if (dia >= 22) {
           horoscopo = "Virgo";
         } else {
@@ -80,7 +80,7 @@ public class Ejercicio10 {
         }
           break;
           
-        case 9 {
+        case 9 :
           if (dia >= 23) {
             horoscopo = "Libra";
           } else {
@@ -88,7 +88,7 @@ public class Ejercicio10 {
           }
             break;
             
-          case 10 {
+          case 10 :
             if (dia >= 23) {
               horoscopo = "Escorpio";
             } else {
@@ -96,7 +96,7 @@ public class Ejercicio10 {
             }
               break;
               
-          case 11 {
+          case 11 :
             if (dia >= 23) {
               horoscopo = "Sagitario";
             } else {
@@ -104,8 +104,8 @@ public class Ejercicio10 {
             }
               break;
               
-          case 12 {
-            if (dia >= 21);
+          case 12 :
+            if (dia >= 21) {
             horoscopo = "Capricornio";
           } else {
             horoscopo = "Sagitario";

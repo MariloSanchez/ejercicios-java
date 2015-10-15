@@ -12,7 +12,7 @@ public class Ejercicio6 {
     System.out.print ("Para ello debe introducir los metros que tiene la caida = ");
     Double m = Double.parseDouble (System.console().readLine());
     
-    double resultado = Math.sqrt((m * 2) / (9.81 * 9.81));
+    double resultado = Math.sqrt((m * 2) / (9.81));
     
     System.out.printf ( " El resultado es = %.2f m/s" , resultado) ;
   }
