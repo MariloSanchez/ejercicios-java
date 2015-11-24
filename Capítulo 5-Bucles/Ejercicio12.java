@@ -36,5 +36,14 @@
      System.out.print("");
    }
  }
+ /*    If (nunElementos == 1) {
+          System.out.println ("0");
+          System.out.print(fi1 + " ");
+            for (int i =1; i < numeroElementos; i++) {
+ *            System.out.print (f2 + " ");
+ *            suma = f1 + f2;
+ *            f1 = f2;
+ *            f2 = suma;
+ * 
          
      
